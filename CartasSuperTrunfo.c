@@ -10,6 +10,7 @@ int main() {
   printf("Exemplo de edição de código!\n");
 
   // Área para entrada de dados
+  int n, total;
 
   // Área para exibição dos dados da cidade
 
